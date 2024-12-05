@@ -1,0 +1,18 @@
+C:\Users\manue\source\repos\ConectarBD\MiLibreria\bin\Debug\MiLibreria.dll
+C:\Users\manue\source\repos\ConectarBD\MiLibreria\bin\Debug\MiLibreria.pdb
+C:\Users\manue\source\repos\ConectarBD\MiLibreria\obj\Debug\MiLibreria.csproj.AssemblyReference.cache
+C:\Users\manue\source\repos\ConectarBD\MiLibreria\obj\Debug\MiLibreria.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\ConectarBD\MiLibreria\obj\Debug\MiLibreria.dll
+C:\Users\manue\source\repos\ConectarBD\MiLibreria\obj\Debug\MiLibreria.pdb
+C:\Users\Usuario\Downloads\ConectarBD 3\ConectarBD\MiLibreria\bin\Debug\MiLibreria.dll
+C:\Users\Usuario\Downloads\ConectarBD 3\ConectarBD\MiLibreria\bin\Debug\MiLibreria.pdb
+C:\Users\Usuario\Downloads\ConectarBD 3\ConectarBD\MiLibreria\obj\Debug\MiLibreria.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\ConectarBD 3\ConectarBD\MiLibreria\obj\Debug\MiLibreria.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\ConectarBD 3\ConectarBD\MiLibreria\obj\Debug\MiLibreria.dll
+C:\Users\Usuario\Downloads\ConectarBD 3\ConectarBD\MiLibreria\obj\Debug\MiLibreria.pdb
+C:\Users\Paul\Downloads\ConectarBD\MiLibreria\bin\Debug\MiLibreria.dll
+C:\Users\Paul\Downloads\ConectarBD\MiLibreria\bin\Debug\MiLibreria.pdb
+C:\Users\Paul\Downloads\ConectarBD\MiLibreria\obj\Debug\MiLibreria.csproj.AssemblyReference.cache
+C:\Users\Paul\Downloads\ConectarBD\MiLibreria\obj\Debug\MiLibreria.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Downloads\ConectarBD\MiLibreria\obj\Debug\MiLibreria.dll
+C:\Users\Paul\Downloads\ConectarBD\MiLibreria\obj\Debug\MiLibreria.pdb

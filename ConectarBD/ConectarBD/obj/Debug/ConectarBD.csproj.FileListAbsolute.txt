@@ -1,0 +1,47 @@
+C:\Users\manue\source\repos\ConectarBD\ConectarBD\bin\Debug\ConectarBD.exe.config
+C:\Users\manue\source\repos\ConectarBD\ConectarBD\bin\Debug\ConectarBD.exe
+C:\Users\manue\source\repos\ConectarBD\ConectarBD\bin\Debug\ConectarBD.pdb
+C:\Users\manue\source\repos\ConectarBD\ConectarBD\obj\Debug\ConectarBD.Properties.Resources.resources
+C:\Users\manue\source\repos\ConectarBD\ConectarBD\obj\Debug\ConectarBD.csproj.GenerateResource.cache
+C:\Users\manue\source\repos\ConectarBD\ConectarBD\obj\Debug\ConectarBD.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\ConectarBD\ConectarBD\obj\Debug\ConectarBD.exe
+C:\Users\manue\source\repos\ConectarBD\ConectarBD\obj\Debug\ConectarBD.pdb
+C:\Users\manue\source\repos\ConectarBD\ConectarBD\obj\Debug\ConectarBD.csproj.AssemblyReference.cache
+C:\Users\manue\source\repos\ConectarBD\ConectarBD\bin\Debug\MiLibreria.dll
+C:\Users\manue\source\repos\ConectarBD\ConectarBD\bin\Debug\MiLibreria.pdb
+C:\Users\manue\source\repos\ConectarBD\ConectarBD\obj\Debug\ConectarBD.csproj.CopyComplete
+C:\Users\manue\source\repos\ConectarBD\ConectarBD\obj\Debug\ConectarBD.RegistroUniMed.resources
+C:\Users\Usuario\Downloads\ConectarBD 3\ConectarBD\ConectarBD\bin\Debug\ConectarBD.exe.config
+C:\Users\Usuario\Downloads\ConectarBD 3\ConectarBD\ConectarBD\bin\Debug\ConectarBD.exe
+C:\Users\Usuario\Downloads\ConectarBD 3\ConectarBD\ConectarBD\bin\Debug\ConectarBD.pdb
+C:\Users\Usuario\Downloads\ConectarBD 3\ConectarBD\ConectarBD\bin\Debug\MiLibreria.dll
+C:\Users\Usuario\Downloads\ConectarBD 3\ConectarBD\ConectarBD\bin\Debug\MiLibreria.pdb
+C:\Users\Usuario\Downloads\ConectarBD 3\ConectarBD\ConectarBD\obj\Debug\ConectarBD.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\ConectarBD 3\ConectarBD\ConectarBD\obj\Debug\ConectarBD.RegistroUniMed.resources
+C:\Users\Usuario\Downloads\ConectarBD 3\ConectarBD\ConectarBD\obj\Debug\ConectarBD.Properties.Resources.resources
+C:\Users\Usuario\Downloads\ConectarBD 3\ConectarBD\ConectarBD\obj\Debug\ConectarBD.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\ConectarBD 3\ConectarBD\ConectarBD\obj\Debug\ConectarBD.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\ConectarBD 3\ConectarBD\ConectarBD\obj\Debug\ConectarBD.csproj.CopyComplete
+C:\Users\Usuario\Downloads\ConectarBD 3\ConectarBD\ConectarBD\obj\Debug\ConectarBD.exe
+C:\Users\Usuario\Downloads\ConectarBD 3\ConectarBD\ConectarBD\obj\Debug\ConectarBD.pdb
+C:\Users\Usuario\Downloads\ConectarBD 3\ConectarBD\ConectarBD\obj\Debug\ConectarBD.login.resources
+C:\Users\Usuario\Downloads\ConectarBD 3\ConectarBD\ConectarBD\obj\Debug\ConectarBD.FormMenu.resources
+C:\Users\Usuario\Downloads\ConectarBD 3\ConectarBD\ConectarBD\obj\Debug\ConectarBD.FormUsuario.resources
+C:\Users\Usuario\Downloads\ConectarBD 3\ConectarBD\ConectarBD\obj\Debug\ConectarBD.FormCliente.resources
+C:\Users\Paul\Downloads\ConectarBD\ConectarBD\bin\Debug\ConectarBD.exe.config
+C:\Users\Paul\Downloads\ConectarBD\ConectarBD\bin\Debug\ConectarBD.exe
+C:\Users\Paul\Downloads\ConectarBD\ConectarBD\bin\Debug\ConectarBD.pdb
+C:\Users\Paul\Downloads\ConectarBD\ConectarBD\bin\Debug\MiLibreria.dll
+C:\Users\Paul\Downloads\ConectarBD\ConectarBD\bin\Debug\MiLibreria.pdb
+C:\Users\Paul\Downloads\ConectarBD\ConectarBD\obj\Debug\ConectarBD.csproj.AssemblyReference.cache
+C:\Users\Paul\Downloads\ConectarBD\ConectarBD\obj\Debug\ConectarBD.FormCliente.resources
+C:\Users\Paul\Downloads\ConectarBD\ConectarBD\obj\Debug\ConectarBD.FormMenu.resources
+C:\Users\Paul\Downloads\ConectarBD\ConectarBD\obj\Debug\ConectarBD.FormUsuario.resources
+C:\Users\Paul\Downloads\ConectarBD\ConectarBD\obj\Debug\ConectarBD.login.resources
+C:\Users\Paul\Downloads\ConectarBD\ConectarBD\obj\Debug\ConectarBD.RegistroUniMed.resources
+C:\Users\Paul\Downloads\ConectarBD\ConectarBD\obj\Debug\ConectarBD.Properties.Resources.resources
+C:\Users\Paul\Downloads\ConectarBD\ConectarBD\obj\Debug\ConectarBD.csproj.GenerateResource.cache
+C:\Users\Paul\Downloads\ConectarBD\ConectarBD\obj\Debug\ConectarBD.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Downloads\ConectarBD\ConectarBD\obj\Debug\ConectarBD.csproj.Up2Date
+C:\Users\Paul\Downloads\ConectarBD\ConectarBD\obj\Debug\ConectarBD.exe
+C:\Users\Paul\Downloads\ConectarBD\ConectarBD\obj\Debug\ConectarBD.pdb
